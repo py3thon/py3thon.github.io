@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://py3thon.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Thu, 11 Mar 2021 21:52:45 +0800</lastBuildDate><atom:link href="https://py3thon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://py3thon.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 11 Mar 2021 21:52:45 +0800</pubDate>
+      
+      <guid>https://py3thon.github.io/posts/my-first-post/</guid>
+      <description>Hello World
+This is an tag </description>
+    </item>
+    
+  </channel>
+</rss>
